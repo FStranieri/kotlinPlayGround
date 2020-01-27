@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5089827-e605-4556-a3c2-18baed8906cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wi5PsAnyvF2d4of0x4fq7y8H9c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5089827-e605-4556-a3c2-18baed8906cb" name="Default Changelist" comment="" />
+      <created>1579619553764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579619553764</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="201" width="847" height="684" key="#Project_Structure" timestamp="1579619850566">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="201" width="847" height="684" key="#Project_Structure/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579619850566" />
+    <state x="2526" y="286" width="735" height="520" key="FileChooserDialogImpl" timestamp="1579621183422">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2526" y="286" width="735" height="520" key="FileChooserDialogImpl/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579621183422" />
+    <state x="2369" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1579620869907">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="175" width="1022" height="737" key="SettingsEditor/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579620869907" />
+    <state x="2189" y="142" width="1372" height="803" key="new project wizard" timestamp="1579621187811">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2189" y="142" width="1372" height="803" key="new project wizard/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579621187811" />
+  </component>
+</project>
